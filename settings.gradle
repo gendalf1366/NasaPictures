@@ -1,0 +1,2 @@
+rootProject.name = "NasaPictures"
+include ':app'
